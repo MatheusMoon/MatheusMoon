@@ -1,6 +1,6 @@
 ### Hey! Eu sou o Matheus,
 
-- 😄 Pronouns: ele/dele
+- 😄 Pronomes: ele/dele
 - 🎓 Atualmente estou cursando Sistemas de Informação
 - 🌱 Praticando/estudando Front-End
 - 📫 Email: matheus.mattos12@hotmail.com
