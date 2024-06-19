@@ -1,6 +1,5 @@
 ### Hey! Eu sou o Matheus, 👨‍💻
 
-- 😄 Pronomes: ele/dele
 - 🎓 Atualmente estou cursando Sistemas de Informação
 - 🌱 Praticando/estudando Front-End e DataScience
 - 📫 Email: matheus.mattos12@hotmail.com
