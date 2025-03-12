@@ -18,6 +18,7 @@
   <img align="center" alt="math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
   <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="right" alt="math-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/DiligentCarefulEnglishpointer-size_restricted.gif">
+  <img align="center" alt="math-HTML" height="50" width="40" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
 </div>
 
 ##
