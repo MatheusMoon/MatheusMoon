@@ -1,7 +1,7 @@
 ### Hey! Eu sou o Matheus, 👨‍💻
 
 - 🎓 Atualmente estou cursando Sistemas de Informação
-- 🌱 Estudando Analise e Ciência de Dados
+- 🌱 Atualmente estou aprendendo Analise e Ciência de Dados
 - 📫 Email: matheus.mattos12@hotmail.com
 - 💼 LinkedIn: https://www.linkedin.com/in/matheus-cordeiro-b16b401b8/
 
