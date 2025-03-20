@@ -1,26 +1,75 @@
-### Hey! Eu sou o Matheus, 👨‍💻
+### Hey! I'm Matheus, 👨‍💻  
 
-- 🎓 Atualmente estou cursando Sistemas de Informação
-- 🌱 Atualmente estou aprendendo Analise e Ciência de Dados
-- 📫 Email: matheus.mattos12@hotmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/matheus-cordeiro-b16b401b8/
+- 🎓 Currently studying Information Systems  
+- 🌱 Currently learning Data Analysis and Data Science  
+- 📫 Email: matheus.mattos12@hotmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/matheus-cordeiro-b16b401b8/   
+
+<br>
+<div align="center">  
+  <a href="https://github.com/MatheusMoon">  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoon&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoon&layout=compact&langs_count=7&theme=codeSTACKr"/>  
+</div>  
 
 <div align="center">
-  <a href="https://github.com/MatheusMoon">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MatheusMoon&show_icons=true&theme=codeSTACKr&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusMoon&layout=compact&langs_count=7&theme=codeSTACKr"/>
+
+## Tools and Technologies
+
+</div>
+ 
+<hr>
+
+<div align="left">
+  <h3> → Front-end</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,ts,html,css)](https://skillicons.dev)
 </div>
 
-## Ferramentas e Tecnologias
-<div style="display: inline_block"><br>
-  <img align="center" alt="math-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="math-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="math-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
-  <img align="center" alt="math-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="math-pic" height="150" style="border-radius:50px;" src="https://thumbs.gfycat.com/DiligentCarefulEnglishpointer-size_restricted.gif">
-  <img align="center" alt="math-HTML" height="50" width="40" src="https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000">
+<hr>
+
+<div align="left">
+  <h3>→ Back-end</h3>
+ 
+  [![My Skills](https://skillicons.dev/icons?i=nodejs,cs,)](https://skillicons.dev)
 </div>
 
-##
+<hr>
 
+<div align="left">
+  <h3>Studying in this moment:</h3>
+  
+  [![My Skills](https://skillicons.dev/icons?i=docker,flutter,py)](https://skillicons.dev)
+</div>
 
+<hr>
+
+<div align="left">
+  <h3>My Design tools</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=ps,figma)](https://skillicons.dev)
+</div>
+
+<hr>
+
+<div align="left">
+  <h3>My Programming tools</h3>
+
+  [![My Skills](https://skillicons.dev/icons?i=postman,git,github,vscode,codepen,notion,replit)](https://skillicons.dev)
+</div>
+
+<hr>
+
+<div style="display: inline_block" align="left">
+  <h3>Anothers</h3>
+  <img align="center" alt="Matheus-Windows" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"> -
+  <img align="center" alt="Matheus-Trello" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg">-
+</div>
+
+<hr>
+
+<hr>
+
+<div align="center">
+  If you're waiting for me to give up, you'd better sit tight. 👨‍💻
+</div>
